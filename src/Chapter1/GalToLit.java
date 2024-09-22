@@ -1,3 +1,5 @@
+package Chapter1;
+
 class GalToLit {
     public static void main(String [] args) {
         double gallons;

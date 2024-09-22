@@ -1,3 +1,5 @@
+package Chapter1;
+
 class StatementDemo {
     public static void main(String args[]) {
         int a, b, c;
